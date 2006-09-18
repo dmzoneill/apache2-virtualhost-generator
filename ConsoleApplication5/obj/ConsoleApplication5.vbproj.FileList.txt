@@ -1,0 +1,9 @@
+bin\Release\ConsoleApplication1.exe
+bin\Release\ConsoleApplication1.pdb
+bin\Release\ConsoleApplication1.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ConsoleApplication1.Resources.resources
+obj\Release\ConsoleApplication1.vbproj.GenerateResource.Cache
+obj\Release\ConsoleApplication1.exe
+obj\Release\ConsoleApplication1.xml
+obj\Release\ConsoleApplication1.pdb
