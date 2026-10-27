@@ -1,5 +1,9 @@
 # Apache2 Virtual Host Generator
 
+<p align="center">
+  <img src=".github/logo.png" alt="apache2-virtualhost-generator logo" width="128" />
+</p>
+
 A VB.NET console program that creates Apache virtual hosts for every
 site folder on a Windows development machine.
 
